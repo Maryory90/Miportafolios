@@ -1,0 +1,9 @@
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+//Orden de import
+@import 'custom-bootstrap';
+@import 'header';
+@import 'principal';
+@import 'habilidades';
+@import 'proyectos';
+@import 'contacto';
